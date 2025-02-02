@@ -1,0 +1,4 @@
+created a folder inside bootcoding folder named clone.
+then opened cmd through clone repository & then vscode
+we cloned fastapi provided through gitingest where the command we used is
+"git clone "url"/ we copied url through gitingest and then we studied the directory structure
